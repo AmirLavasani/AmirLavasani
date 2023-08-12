@@ -43,9 +43,15 @@ As a full-stack and machine-learning engineer, I'm quite proficient with these t
 
 ---
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirlavasani&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amirlavasani&theme=github_dark" />
+</a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirlavasani&layout=compact&theme=github_dark)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirlavasani&layout=compact&theme=github_dark&langs_count=8&card_width=256"/>
+</a>
+
+
 
 <!--
 **AmirLavasani/AmirLavasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
