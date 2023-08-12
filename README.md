@@ -42,9 +42,9 @@ As a full-stack and machine-learning engineer, I'm quite proficient with these t
 </div>
 
 ---
-<div>
-  [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirlavasani)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirlavasani&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AmirLavasani/AmirLavasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
