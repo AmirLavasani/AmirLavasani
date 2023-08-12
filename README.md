@@ -41,6 +41,11 @@ As a full-stack and machine-learning engineer, I'm quite proficient with these t
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 </div>
 
+---
+<div>
+  [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirlavasani)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!--
 **AmirLavasani/AmirLavasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
