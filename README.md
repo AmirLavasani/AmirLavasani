@@ -44,11 +44,11 @@ As a full-stack and machine-learning engineer, I'm quite proficient with these t
 ---
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amirlavasani&theme=github_dark" />
+  <img height=128 align="center" src="https://github-readme-stats.vercel.app/api?username=amirlavasani&theme=github_dark" />
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirlavasani&layout=compact&theme=github_dark&langs_count=8&card_width=256"/>
+  <img height=128 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirlavasani&layout=compact&theme=github_dark&langs_count=8&card_width=256"/>
 </a>
 
 
