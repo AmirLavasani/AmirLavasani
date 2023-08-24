@@ -41,6 +41,12 @@ As a full-stack and machine-learning engineer, I'm quite proficient with these t
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 </div>
 
+#### Codewars
+<div>
+  <img src="https://www.codewars.com/users/AmirLavasani/badges/large" title="Codewars" alt="Codewars" />&nbsp;  
+</div>
+
+
 ---
 
 <a href="#">
